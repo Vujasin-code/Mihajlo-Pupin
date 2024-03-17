@@ -1,0 +1,147 @@
+/* Stilizovanje MainPage*/
+
+h1 {
+    color: rgb(93, 5, 5);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav {
+    width: 20px;
+    height: 426px;
+    float: left;
+    padding-right: 180px;
+    padding-top: 78px;
+    margin-top: auto;
+    margin-right: 20px;
+    background-color: rgb(234, 234, 234);
+    border: seashell solid 3px;
+}
+
+section {
+background-color: #d4d4d6;
+}
+
+ ul {
+    position: relative;
+    bottom: 10px;
+    list-style-type: none;   
+}
+
+.button_main {
+    color: brown;
+    text-decoration: none;
+    font-size: 17px;
+}
+button {
+    width: 120px;
+    height: auto;
+    margin: 10px auto;
+    border-radius: 3px;
+}
+
+p {
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right: 6px;
+    padding-bottom: 4px;
+    color: rgb(93, 5, 5);
+}
+button:hover {
+    background-color: white;
+}
+
+/* Stilizovanje Early life and education */
+
+#early_life {
+    width: 20px;
+    height: 375px;
+    float: left;
+    padding-right: 180px;
+    padding-top: 78px;
+    margin-top: auto;
+    margin-right: 20px;
+    background-color: rgb(234, 234, 234);
+    border: seashell solid 3px;
+}
+
+.university  {
+    float: left;
+    padding-right: 10px;
+}
+
+.life {
+    background-color: rgb(220, 237, 237);
+}
+
+/* Stilizovanje Literaly work */
+
+#work {
+    width: 20px;
+    height: 438px;
+    float: left;
+    padding-right: 180px;
+    padding-top: 78px;
+    margin-top: auto;
+    margin-right: 20px;
+    background-color: rgb(234, 234, 234);
+    border: seashell solid 3px;
+}
+
+table, th, td {
+    border: solid 1px rgb(40, 70, 118);
+    background-color: rgb(246, 246, 238);
+}
+
+.pupin {
+    font-weight: bold;
+}
+
+.title {
+    background-color: blanchedalmond;
+}
+
+.date {
+    color: rgb(228, 105, 105);
+}
+
+.place {
+    color: rgb(161, 161, 246);
+}
+
+/* Stilizovanje Pupin coils */
+
+#coils {
+    width: 20px;
+    height: 445px;
+    float: left;
+    padding-right: 180px;
+    padding-top: 78px;
+    margin-top: auto;
+    margin-right: 20px;
+    background-color: rgb(234, 234, 234);
+    border: seashell solid 3px;
+}
+
+figcaption {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(93, 5, 5);
+    font-size: 16px;
+}
+
+
+footer {
+    font-size: 17px;
+    padding-top: 30px;
+}
+
+.wiki {
+    text-decoration: none;
+    color: red;
+}
+
+.wiki:hover {
+    font-size: 20px;
+}
+.jav:hover {
+    cursor: pointer;
+}
